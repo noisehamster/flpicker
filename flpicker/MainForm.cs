@@ -25,7 +25,7 @@ namespace flpicker
             if (string.IsNullOrWhiteSpace(flpPath) || !File.Exists(flpPath))
             {
                 MessageBox.Show(
-                    "That’s not an .flp file… nice try.",
+                    "Please open an flp with this.",
                     "flpicker - picking fl studio versions since 2026",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error
