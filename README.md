@@ -13,4 +13,8 @@
 - Assign file associations to the exe
 - Open a .flp and select your version
 
+## Requirements
+For my build exe I think you need Windows 10 and 11+
+If you want to build a version that works with your Windows version the source code is here for you to figure out.
+
 <!--I wasted too much fucking time on this shit-->
